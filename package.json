@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@gateway-dao/sdk": "2.1.0-develop.19"
+  }
+}
